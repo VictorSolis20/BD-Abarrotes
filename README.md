@@ -1,4 +1,4 @@
-# Proyecto Mini Concentrador de Análisis y Diseño SQL - Abarrotes Don Rufino
+# Mini Proyecto Concentrador de Análisis y Diseño SQL - Abarrotes Don Rufino
 
 Este proyecto tiene como objetivo migrar el sistema de ventas de Abarrotes "Don Rufino" a una base de datos SQL, permitiendo registrar productos y clientes, así como realizar consultas específicas en la base de datos. A continuación, se describen las principales características y pasos del proyecto.
 
